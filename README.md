@@ -1,6 +1,11 @@
 # MyEtherWallet-iOS 0.1.0
 MyEtherWallet iOS port using Cordova
 
+```
+# BETA - USE AT YOUR OWN RISK
+# ADDRESS ONLY & PRIVATE KEY SEMI-WORKING
+# KEYSTORE FILE SUPPORT COMING SOON
+```
 
 ```Xcode 8.3.2 | Cordova 7.0.1```
 
