@@ -1,3 +1,9 @@
+# ** **this repo no longer maintained** **
+***ALWAYS*** **assume there are unpatched vulnerabilities in non-maintained repositories.**  
+That means _don't_ use THIS for transactions, only for learning & reference.
+
+
+-----
 # MyEtherWallet-iOS 0.1.0
 MyEtherWallet iOS port using Cordova
 
